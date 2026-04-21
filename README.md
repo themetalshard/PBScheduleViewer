@@ -1,4 +1,4 @@
-![PB Schedule Viewer](https://pbsv.themetalshard.space/PBSV.png)
+![PB Schedule Viewer](https://pbsv.themetalshard.space/pbsvlogo.png)
 <b>PB Schedule Viewer</b> is an app for viewing schedules for the Roblox group Pinewood Builders.
 
 It relies on the Pinewood Builders server rehosted on my website. (https://pbsv.themetalshard.space)
