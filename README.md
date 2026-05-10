@@ -41,6 +41,12 @@ If you wish to install it manually follow these steps:
 
 The app will now install onto your device.
 
+To run the app afterwards, follow these steps to trust it:
+1. Go to Settings -> General -> Device Management -> Your Apple Account
+2. Tap Trust "Your Apple Account"
+
+The app can now be launched from the home screen.
+
 
 # Discord
 We have a community over at the Steel Project, our devgroup behind PB Schedule Viewer!
