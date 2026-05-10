@@ -21,6 +21,27 @@ You can install the app using Obtainium through these steps:
 
 If you wish, you can also simply install the latest APK from the [Releases](https://github.com/themetalshard/PBScheduleViewer/releases) page.
 
+### iOS/iPadOS (iOS 17+ only, unfortunately)
+
+<p>
+  <a href="sidestore://source?url=https://pbsv.themetalshard.space/repo">
+    <img src="https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/main/Resources/Repo/sidestore_badge.png" alt="Add to SideStore" width="200" />
+  </a>
+</p>
+
+You will need to install SideStore before proceeding with this. https://docs.sidestore.io/docs/installation/prerequisites
+
+If you wish to install it manually follow these steps:
+1. Install the latest version of iTunes from [here](https://www.apple.com/itunes/download/win64)
+2. Download the latest version of [Impactor](https://github.com/claration/Impactor)
+3. Plug your  device into your computer
+4. Open Impactor
+5. Go to Settings -> Sign In and enter in your Apple Account and password (You may use an alternative account, this is only for installation.)
+6. After signing in, drag and drop the PBSV .ipa file into Impactor and click Install
+
+The app will now install onto your device.
+
+
 # Discord
 We have a community over at the Steel Project, our devgroup behind PB Schedule Viewer!
 
