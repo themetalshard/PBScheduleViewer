@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Assets.xcassets">
+   </FileRef>
+   <FileRef
+      location = "group:PBScheduleViewerApp.swift">
+   </FileRef>
+   <FileRef
+      location = "group:PBSV.icon">
+   </FileRef>
+   <FileRef
+      location = "group:PBSV.xcworkspace">
+   </FileRef>
+   <FileRef
+      location = "group:ScheduleEvent.swift">
+   </FileRef>
+   <FileRef
+      location = "group:ScheduleRepository.swift">
+   </FileRef>
+   <FileRef
+      location = "group:ScheduleView.swift">
+   </FileRef>
+   <FileRef
+      location = "group:ScheduleViewModel.swift">
+   </FileRef>
+</Workspace>
