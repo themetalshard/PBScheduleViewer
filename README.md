@@ -24,7 +24,7 @@ If you wish, you can also simply install the latest APK from the [Releases](http
 ### iOS/iPadOS (iOS 17+ only, unfortunately)
 
 <p>
-  <a href="sidestore://source?url=https://pbsv.themetalshard.space/repo">
+  <a href="https://tinyurl.com/pbsv-repo">
     <img src="https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/main/Resources/Repo/sidestore_badge.png" alt="Add to SideStore" width="200" />
   </a>
 </p>
