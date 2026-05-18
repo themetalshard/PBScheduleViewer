@@ -21,7 +21,9 @@ You can install the app using Obtainium through these steps:
 
 If you wish, you can also simply install the latest APK from the [Releases](https://github.com/themetalshard/PBScheduleViewer/releases) page.
 
-### iOS/iPadOS (iOS 17+ only, unfortunately)
+---
+
+### iOS/iPadOS (Does not work, iOS 17+ only, unfortunately)
 
 <p>
   <a href="https://tinyurl.com/pbsv-repo">
