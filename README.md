@@ -1,4 +1,4 @@
-![PB Schedule Viewer](https://pbsv.themetalshard.space/pbsvlogo.png)
+![PB Schedule Viewer](https://pbsv.themetalshard.space/fulllogo.png)
 <b>PB Schedule Viewer</b> is an app for viewing schedules for the Roblox group Pinewood Builders.
 
 It relies on the PB Kronos API, which is rehosted on my own domain. (API key provided by [@Coasterteam](https://github.com/coasterteam))
