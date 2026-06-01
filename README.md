@@ -12,6 +12,12 @@ The server code is unfortunately not available as it is private, the app however
 
 ### Android
 
+<p>
+  <a href="https://f-droid.org/en/packages/com.metalshard.hyperion/">
+    <img src="https://f-droid.org/badge/get-it-on.png" alt="Add to SideStore" width="200" />
+  </a>
+</p>
+
 You can install the app using Obtainium through these steps:
 1. Download and install Obtainium from [here](https://github.com/ImranR98/Obtainium/releases) (use the file named `app-release.apk`)
 2. Open Obtainium and click 'Add App'
